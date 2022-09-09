@@ -1,2 +1,2 @@
 # leptjson
-simple ctx json lib
+simple json lib for c
